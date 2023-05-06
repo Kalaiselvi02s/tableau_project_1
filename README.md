@@ -1,2 +1,2 @@
 # tableau_project_1
-data analysis and visualization project using tableau which i gave final output as profits of company over sales,category,date .
+data analysis and visualization project using tableau which i gave final output as profits of company over sales,category,date for "walmart data" i shared in this repositry
